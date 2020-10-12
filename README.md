@@ -1,63 +1,63 @@
 # myFirstdemoproject
-#my2ndheading
+# my2ndheading
 
-###3rdheading
+### 3rdheading
 
-####4rthheading
+#### 4rthheading
 
-#####5thheading
+##### 5thheading
 
-#TextHeading 
+# TextHeading 
 
-#Bold
+## Bold
 
 **Thre are alots of people in your life which you can intract also navigate through many chnannals but one thing is you can not deeply intract with anyone of you ...**
 
-#Italic
+## Italic
 
 *Thre are alots of people in your life which you can intract also navigate through many chnannals but one thing is you can not deeply intract with anyone of you ...*
 
-#Strikthrough
+## Strikthrough
 
 ~Thre are alots of people in your life which you can intract also navigate through many chnannals but one thing is you can not deeply intract with anyone of you ...~
 
-#Bold-and-nested-Italic
+## Bold-and-nested-Italic
 
 **Thre are alots of people in your life which you can intract - also navigate through many chnannals but one thing - is you can not deeply intract with anyone of you ... **
 
-#All-Bold-And-Italic
+## All-Bold-And-Italic
 
 ***Thre are alots of people in your life which you can intract also navigate through many chnannals but one thing is you can not deeply intract with anyone of you ...***
 
-#Quoting 
+# Quoting 
 
 > This is my place you cannot belongs to this 
 
-#Quoting the code 
+# Quoting the code 
 ~~~
 git init
 git add .
 git commit -m "update this files"
 ~~~
 
-#Lnks :
+# Lnks :
 
 This link bslongs to the [Angry Bird](https://pages.github.com).
 
-#Lists :
+# Lists :
 
-#unorderdlist
+## unorderdlist
 
 - Ahmad
 - Angry bird
 - AI
 
-#orderdlist 
+## orderdlist 
 1. Ahmad
 2. Angry bird
 3. AI
 
-#Nestedlist 
+## Nestedlist 
 1. the first element is here 
      - 2nd element is here 
      - 3rd element is here
